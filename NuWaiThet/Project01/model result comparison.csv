@@ -1,0 +1,25 @@
+Model,Metric,Train,Test,Total Params,Training Time(s)
+Baseline,Root Mean Squared Error,86385.03,86255.53,2209,114.53
+Baseline,Mean Absolute Error,64932.8,64777.15,2209,114.53
+Baseline,Mean Absolute Percentage Error,10.81,10.81,2209,114.53
+Baseline,R2 Score,0.82,0.82,2209,114.53
+Three HL,Root Mean Squared Error,64434.4,64217.92,5953,115.73
+Three HL,Mean Absolute Error,46364.79,46230.02,5953,115.73
+Three HL,Mean Absolute Percentage Error,7.45,7.44,5953,115.73
+Three HL,R2 Score,0.9,0.9,5953,115.73
+Four HL,Root Mean Squared Error,54963.88,55285.79,17537,405.79
+Four HL,Mean Absolute Error,39629.74,39879.53,17537,405.79
+Four HL,Mean Absolute Percentage Error,6.46,6.52,17537,405.79
+Four HL,R2 Score,0.93,0.93,17537,405.79
+regularized model1,Root Mean Squared Error,54803.12,55259.61,18433,323.97
+regularized model1,Mean Absolute Error,39157.08,39332.29,18433,323.97
+regularized model1,Mean Absolute Percentage Error,6.32,6.36,18433,323.97
+regularized model1,R2 Score,0.93,0.93,18433,323.97
+regualrized model2,Root Mean Squared Error,58830.21,59125.81,6529,282.34
+regualrized model2,Mean Absolute Error,42453.32,42559.13,6529,282.34
+regualrized model2,Mean Absolute Percentage Error,6.88,6.9,6529,282.34
+regualrized model2,R2 Score,0.92,0.91,6529,282.34
+ leaky relu,Root Mean Squared Error,54232.56,54665.74,18433,416.98
+ leaky relu,Mean Absolute Error,38968.62,39187.39,18433,416.98
+ leaky relu,Mean Absolute Percentage Error,6.32,6.36,18433,416.98
+ leaky relu,R2 Score,0.93,0.93,18433,416.98
