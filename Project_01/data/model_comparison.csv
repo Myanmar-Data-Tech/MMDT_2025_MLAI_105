@@ -1,0 +1,3 @@
+,RMSE Train,RMSE Test,R2 Train,R2 Test,Training Time (s)
+Initial Model,88344.21,88140.54,0.81,0.81,113.46
+Improved Model,63733.52,63566.5,0.9,0.9,122.51
